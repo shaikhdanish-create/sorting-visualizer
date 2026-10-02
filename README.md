@@ -3,7 +3,7 @@ A web-based tool to visualize how different sorting algorithms work step-by-step
 Built with HTML, CSS, and JavaScript.
 
 Live Demo
-🔗 https://sorting-visualizerr-tau.vercel.app/
+🔗 https://sorting-visualizerr-tau.vercel.app
 
 Features
 Visualize multiple sorting algorithms
